@@ -1,0 +1,10 @@
+source_repos:
+  # - "https://github.com/example/repo_1.git"
+  # - "https://github.com/example/repo_2.git"
+
+bitbucket:
+    api: "https://api.bitbucket.org/2.0/"
+    username:
+    token:
+    workspace: 
+    project:
